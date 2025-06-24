@@ -30,3 +30,9 @@ Update the content in the `src` folder to personalize your portfolio.
 ---
 
 Feel free to reach out for any questions or improvements!
+
+<<<<<<< HEAD
+Your local changes
+=======
+Changes from the remote repository
+>>>>>>> main
